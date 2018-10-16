@@ -1,0 +1,13 @@
+.participant-container {
+  height: 100%;
+  position: relative;
+  top: 80px;
+}
+
+.participantDiv {
+  padding-top: 110px;
+  position: relative;
+  float: center;
+  width: 100%;
+  position: center;
+}
